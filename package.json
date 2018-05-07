@@ -16,5 +16,8 @@
     "url": "https://github.com/tnbt8116426/puppe/issues"
   },
   "homepage": "https://github.com/tnbt8116426/puppe#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
 }
